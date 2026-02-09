@@ -22,7 +22,7 @@ Member of IoT and Information Engineer, And AIoT Lab
 
 <b>My GitHub Stats</b>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/faptster?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/faptster?cardType=level&theme=github-dark&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card)
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=faptster&theme=tokyonight" alt="GitHub Streak" />
