@@ -28,4 +28,4 @@ Member of IoT and Information Engineer, And AIoT Lab
 [![](https://visitcount.itsvg.in/api?id=faptster&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<a href="http://www.github.com/faptster"><img src="https://github-readme-streak-stats.herokuapp.com/?user=faptster&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=faptster&theme=tokyonight" alt="GitHub Streak" />
