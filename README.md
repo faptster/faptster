@@ -22,10 +22,7 @@ Member of IoT and Information Engineer, And AIoT Lab
 
 <b>My GitHub Stats</b>
 
-![](https://github-contributor-stats.vercel.app/api?username=faptster&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=faptster&icon=0&color=0)](https://visitcount.itsvg.in)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/faptster?cardType=level&theme=github-dark&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card)
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=faptster&theme=tokyonight" alt="GitHub Streak" />
