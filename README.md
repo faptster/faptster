@@ -26,4 +26,3 @@ Member of IoT and Information Engineer, And AIoT Lab
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=faptster&theme=tokyonight" alt="GitHub Streak" />
-<a href="https://github.com/faptster" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faptster&langs_count=10&title_color=ef4444&text_color=ec4899&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
