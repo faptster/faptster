@@ -20,9 +20,16 @@ Member of IoT and Information Engineer, And AIoT Lab
 
 ### Badges
 
-<b>My GitHub Stats</b>
+---
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/faptster?cardType=level&theme=github-dark&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card)
+### 📊 My GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=faptster&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=faptster&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" height="150" />
+</div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=faptster&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faptster&theme=tokyonight" alt="GitHub Streak" />
+---
