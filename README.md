@@ -23,13 +23,8 @@ Member of IoT and Information Engineer, And AIoT Lab
 ---
 
 ### 📊 My GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faptster&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=faptster&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" height="150" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=faptster&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</div>
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/faptster?cardType=level&theme=tokyonight&fontFamily=&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)<br/>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=faptster&theme=tokyonight)](https://git.io/streak-stats)<br/>
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=faptster&layout=compact&theme=tokyonight)
 
 ---
