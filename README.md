@@ -24,7 +24,7 @@ Member of IoT and Information Engineer, And AIoT Lab
 
 ### 📊 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=faptster&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faptster&theme=tokyonight" alt="GitHub Streak" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=faptster&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" height="150" />
 </div>
 
